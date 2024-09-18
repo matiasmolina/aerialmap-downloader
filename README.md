@@ -101,9 +101,9 @@ This code will output a 512x512 satellite image centered at the specified coordi
 
 ```
 (512, 512, 3)
+````
 
 ![Output Image](./image.png)
-```
 
 ## License
 This project is licensed under the CC BY 4.0 License. See the LICENSE file for more details.
