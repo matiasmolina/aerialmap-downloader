@@ -1,8 +1,10 @@
 
 
-# Google Maps Image Downloader
+# Aerial Maps Image Downloader
 
 A Python script for downloading static map images from Google Maps using the Google Static Maps API. The script allows customization of location, zoom level, map type, and image size. The images can be returned as NumPy arrays for further processing or visualization.
+
+*Future: Expanding functionality to support additional map sources beyond Google Static Maps*
 
 ## Features
 - Download static map images from Google Maps API
