@@ -20,8 +20,8 @@ A Python script for downloading static map images from Google Maps using the Goo
 ## Installation
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-repo/google-maps-image-downloader.git
-    cd google-maps-image-downloader
+    git clone https://github.com/matiasmolina/aerialmap-downloader
+    cd aerialmap-downloader
     ```
 
 2. Set up your Google Maps API key in the script (see `secret_key` variable). Alternatively, you may want to set your `secret_key` as an environment variable as `os.getenv('GOOGLE_MAPS_API_KEY')`.
